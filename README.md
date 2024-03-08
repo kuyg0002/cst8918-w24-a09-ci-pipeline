@@ -26,8 +26,14 @@ height="3.2597222222222224in"}
 generated](./Screenshots/3.png){width="6.5in"
 height="3.2597222222222224in"}
 
-## 3.  After terraform init and commit again, I've got success message. (There are still warning but it was success)
+## 4.  After terraform init and commit again, I've got success message. (There are still warning but it was success)
 
 ![A screenshot of a computer program Description automatically
 generated](./Screenshots/4.png){width="6.5in"
+height="3.2597222222222224in"}
+
+## 4.  I have added another stage to github action yml file which is terraform plan stage
+
+![A screenshot of a computer program Description automatically
+generated](./Screenshots/5.png){width="6.5in"
 height="3.2597222222222224in"}
