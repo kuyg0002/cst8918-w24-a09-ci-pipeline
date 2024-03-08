@@ -1,0 +1,16 @@
+{
+  "name": "cst8918-w24-a09-ci-pipeline",
+  "version": "1.0.0",
+  "description": "![A screenshot of a computer Description automatically\r generated](./Screenshots/1.png){width=\"6.5in\" height=\"3.89375in\"}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
