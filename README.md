@@ -32,7 +32,7 @@ height="3.2597222222222224in"}
 generated](./Screenshots/4.png){width="6.5in"
 height="3.2597222222222224in"}
 
-## 4.  I have added another stage to github action yml file which is terraform plan stage
+## 5.  I have added another stage to github action yml file which is terraform plan stage
 
 ![A screenshot of a computer program Description automatically
 generated](./Screenshots/5.png){width="6.5in"
